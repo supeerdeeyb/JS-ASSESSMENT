@@ -47,5 +47,5 @@ getTotalSupply();
 
 after you input the code you can just simply click the "run" button on the upper right and the program will start running. 
 
-John Dave A. Rizad
+John Dave A. Rizada
 422002188@ntc.edu.ph
